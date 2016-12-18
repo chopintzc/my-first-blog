@@ -25,7 +25,7 @@ SECRET_KEY = 'przvl7ku(0q4r2=-a2l#=qs_&^j9@dq!-%%q@ji$k_xkg-4$s='
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['chopintzc.pythonanywhere.com']
 
 
 # Application definition
